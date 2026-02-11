@@ -13,12 +13,7 @@ Tokenization i.e. Dividing the program into valid tokens.
 Remove white space characters.
 Remove comments.
 How to Run this Project:
-
-Change directory to Lexical-Analyzer using command: cd Lexical-Analyzer.
-Make a text file in this folder and write source code in C++. 3.1 Try the source code written written here
-Open Lex.exe file by double clicking on the file.
-You'll see all associated tokens from the source code.
-Note: This is a Lexical Analyzer for a particular subset of C++ language explained under Assumptions: . It may not be able to parse the all token of C++ language.
+Note: This is a Lexical Analyzer for a particular subset of C language explained under Assumptions: . It may not be able to parse the all token of C++ language.
 ASSUMPTIONS:
 While designing the LexicalAnalyzer, I have assumed the following assumptions for my Language:
  Special Symbol: ; { } ( ) , #
