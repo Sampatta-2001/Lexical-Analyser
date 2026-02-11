@@ -1,5 +1,5 @@
 About this project:
-This project is a lexical analyzer generator written in C++. Lexical Analysis is the first phase of the compiler also known as a scanner. It converts the High level input program into a sequence of Tokens.
+This project is a lexical analyzer generator written in C. Lexical Analysis is the first phase of the compiler also known as a scanner. It converts the High level input program into a sequence of Tokens.
 Tokens:
 A lexical token is a sequence of characters that can be treated as a unit in the grammar of the programming languages.
 
