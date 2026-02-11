@@ -13,7 +13,7 @@ Tokenization i.e. Dividing the program into valid tokens.
 Remove white space characters.
 Remove comments.
 How to Run this Project:
-Clone the project using command: git clone https://github.com/Akshit6828/Lexical-Analyzer.git 
+
 Change directory to Lexical-Analyzer using command: cd Lexical-Analyzer.
 Make a text file in this folder and write source code in C++. 3.1 Try the source code written written here
 Open Lex.exe file by double clicking on the file.
